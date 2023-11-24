@@ -1,4 +1,4 @@
-package com.sashassitters.tacocloud;
+package com.sashassitters.tacos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
